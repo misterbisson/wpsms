@@ -6,7 +6,7 @@ Requires at least: 2.3.0
 Tested up to: 2.6.3
 Stable tag: trunk
 
-A plugin to send SMS messages from other plugins. As easy to use as `wp_mail()`.
+A plugin to send SMS messages from other plugins. As easy to use as wp_mail().
 
 == Description ==
 
