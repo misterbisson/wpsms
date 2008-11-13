@@ -3,7 +3,7 @@
 Plugin Name: wpSMS
 Plugin URI: http://maisonbisson.com/projects/wpsms/
 Description: An easy to use PHP class to send SMS messages. Does nothing on its own, but used by other plugins to <a href="http://maisonbisson.com/projects/wpsms/">do cool stuff</a>.
-Version: 1.0.0 
+Version: 1.0.0a 
 Author: Casey Bisson
 Author URI: http://maisonbisson.com/blog/
 */
