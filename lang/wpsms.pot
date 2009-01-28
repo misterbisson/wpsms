@@ -1,0 +1,23 @@
+
+#. Plugin Name of an extension
+msgid "wpSMS"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://maisonbisson.com/projects/wpsms/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"An easy to use PHP class to send SMS messages. Does nothing on its own, but "
+"used by other plugins to <a "
+"href=\"http://maisonbisson.com/projects/wpsms/\">do cool stuff</a>."
+msgstr ""
+
+#. Author of an extension
+msgid "Casey Bisson"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://maisonbisson.com/blog/"
+msgstr ""
